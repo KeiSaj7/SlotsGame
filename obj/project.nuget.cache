@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bcfEpKi4QLFc8XOPIPjj84jy6NW1W3igSzbcwUwdVLucZi7Y8DRq6pEfrl1MSz7BAafB00DSj+T8ZdK69u1mHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jasiek\\Desktop\\programing\\C#\\PROJECTS\\SlotsGame\\SlotsGame\\SlotsGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jasiek\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Jasiek\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Jasiek\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Jasiek\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}

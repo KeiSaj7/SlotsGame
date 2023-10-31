@@ -1,0 +1,15 @@
+C:\Users\Jasiek\Desktop\programing\C#\PROJECTS\SlotsGame\SlotsGame\obj\Debug\net6.0\SlotsGame.csproj.AssemblyReference.cache
+C:\Users\Jasiek\Desktop\programing\C#\PROJECTS\SlotsGame\SlotsGame\obj\Debug\net6.0\SlotsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasiek\Desktop\programing\C#\PROJECTS\SlotsGame\SlotsGame\obj\Debug\net6.0\SlotsGame.AssemblyInfoInputs.cache
+C:\Users\Jasiek\Desktop\programing\C#\PROJECTS\SlotsGame\SlotsGame\obj\Debug\net6.0\SlotsGame.AssemblyInfo.cs
+C:\Users\Jasiek\Desktop\programing\C#\PROJECTS\SlotsGame\SlotsGame\obj\Debug\net6.0\SlotsGame.csproj.CoreCompileInputs.cache
+C:\Users\Jasiek\Desktop\programing\C#\PROJECTS\SlotsGame\SlotsGame\bin\Debug\net6.0\SlotsGame.exe
+C:\Users\Jasiek\Desktop\programing\C#\PROJECTS\SlotsGame\SlotsGame\bin\Debug\net6.0\SlotsGame.deps.json
+C:\Users\Jasiek\Desktop\programing\C#\PROJECTS\SlotsGame\SlotsGame\bin\Debug\net6.0\SlotsGame.runtimeconfig.json
+C:\Users\Jasiek\Desktop\programing\C#\PROJECTS\SlotsGame\SlotsGame\bin\Debug\net6.0\SlotsGame.dll
+C:\Users\Jasiek\Desktop\programing\C#\PROJECTS\SlotsGame\SlotsGame\bin\Debug\net6.0\SlotsGame.pdb
+C:\Users\Jasiek\Desktop\programing\C#\PROJECTS\SlotsGame\SlotsGame\obj\Debug\net6.0\SlotsGame.dll
+C:\Users\Jasiek\Desktop\programing\C#\PROJECTS\SlotsGame\SlotsGame\obj\Debug\net6.0\refint\SlotsGame.dll
+C:\Users\Jasiek\Desktop\programing\C#\PROJECTS\SlotsGame\SlotsGame\obj\Debug\net6.0\SlotsGame.pdb
+C:\Users\Jasiek\Desktop\programing\C#\PROJECTS\SlotsGame\SlotsGame\obj\Debug\net6.0\SlotsGame.genruntimeconfig.cache
+C:\Users\Jasiek\Desktop\programing\C#\PROJECTS\SlotsGame\SlotsGame\obj\Debug\net6.0\ref\SlotsGame.dll
